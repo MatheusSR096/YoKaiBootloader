@@ -1,6 +1,6 @@
 # 🖥️ YOKAI Bootloader
 
-Um bootloader simples e estilizado em Assembly x86, feito para carregar o kernel do **YOKAI OS** com direito a arte ASCII na tela de inicialização. 🚀
+Um bootloader simples em Assembly x86. 🚀
 
 ---
 
