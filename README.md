@@ -9,6 +9,7 @@ Um bootloader simples em Assembly x86. 🚀
 ---
 
 🔧 Como compilar e testar
+
 🛠️ Instalações necessárias
 Antes de começar, você precisa ter o NASM (Netwide Assembler) e o QEMU (Quick Emulator) instalados na sua máquina.
 
