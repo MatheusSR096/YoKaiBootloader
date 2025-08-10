@@ -4,7 +4,7 @@ Um bootloader simples e estilizado em Assembly x86, feito para carregar o kernel
 
 ---
 
-![YOKAI OS Bootloader Demo](docs/bootloader-demo.png)
+![YOKAI OS Bootloader Demo](Captura de tela 2025-08-10 161839.png)
 
 > A imagem acima mostra o bootloader carregando o kernel com sucesso.
 
